@@ -1,6 +1,6 @@
 # 1 + 2 * 3
 #voorspelde uitkomst = 7
-print(1 + 2 * 3)
+print(1 + 2 * 3 * 5)
 
 # (1 + 2) * 3
 #voorspelde uitkomst = 9
